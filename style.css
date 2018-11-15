@@ -1,0 +1,42 @@
+﻿body {
+}
+
+.container {
+    width: 129px;
+    height: 180px;
+    margin-left: 20px;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+select {
+    width: 129px;
+    height: 130px;
+    padding: 10px 25px 10px 10px;
+}
+
+option {
+    font-size: 16px;
+}
+
+.buttons {
+    margin-top: 35px;
+    width: 30px;
+    height: 115px;
+}
+
+.btn {
+    margin-top: 10px;
+    width: 30px;
+    height: 25px;
+    display: block;
+}
+
+.btn:first-child {
+    margin-top: 0;
+}
+
+
+p {
+    text-align: center;
+}
